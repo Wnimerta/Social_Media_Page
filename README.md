@@ -1,1 +1,2 @@
 # Social_Media_Page
+This project is a responsive social media profile page designed to display a user's personal information, including their profile picture, bio, and social media links. The page features an interactive layout with buttons for actions like following or messaging the user. The design focuses on simplicity, accessibility, and responsiveness, ensuring a seamless experience across different devices and screen sizes.
